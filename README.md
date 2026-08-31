@@ -2,7 +2,7 @@
 
 ## Knowledge. Capability. Action.
 
-**UY** is an open African organisation dedicated to expanding access to computing, research, technology, education and technological opportunity.
+**UY.Africa** *(pronounced "you why dot Africa")* is an open African organisation dedicated to expanding access to computing, research, technology, education and technological opportunity.
 
 We believe Africa should not have to own the world's largest computers to participate in the world's most important technologies.
 
@@ -24,7 +24,7 @@ UY brings together two ideas found across African languages and cultures:
 
 **Uwezo** — Capability, ability and capacity.
 
-**Ubuntu** - I am, because we are.
+**Ubuntu** — I am, because we are.
 
 Together with:
 
