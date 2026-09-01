@@ -1,5 +1,21 @@
 # UY Africa
 
+What we learn, we share. What we build, we teach. What we receive, we pass forward.
+
+Every member of the UY community is both a learner and a teacher. Whenever we gain knowledge, skills, experience or opportunity, we seek to pass them on to someone else.
+
+A student becomes a mentor.
+A participant becomes a volunteer.
+A competitor becomes a coach.
+A researcher becomes a teacher.
+A founder creates opportunities for the next founder.
+
+No one is expected to know everything, and no one is expected to teach everything. But everyone has something they can teach, and everyone has something they can learn.
+
+In this way, knowledge does not accumulate in individuals or institutions. It travels through the community.
+
+Each one teaches one. And together, we teach millions.
+
 ## Knowledge. Capability. Action.
 
 **UY.Africa** *(pronounced "you why dot Africa")* is an open African organisation dedicated to expanding access to computing, research, technology, education and technological opportunity.
